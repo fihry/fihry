@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fihry
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN 
-- 💞️ I’m looking to collaborate on Create Mern projectes
+- 💞️ I’m looking to collaborate on Create MERN Projectes
 - 📫 How to reach me Fihry.me
 
 <!---
