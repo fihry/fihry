@@ -22,7 +22,7 @@
 <br />
 <p align="center">
   <samp>
-    $  <a href="https://gist.github.com/heapbytes" target="_blank">gists</a> .
+    $  <a href="https://gist.github.com/fihry" target="_blank">gists</a> .
     <a href="https://fihry.me" target="_blank">Profile</a> .
     <a href="https://twitter.com/EFihry" target="_blank">x</a> .
     <a href="https://discordapp.com/users/940783956746461244" target="_blank">discord</a> .
