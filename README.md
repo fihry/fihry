@@ -1,12 +1,12 @@
 
 
 ```css
-┌[heapbytes@git]-(~)
+┌[fihry@git]-(~)
 └> mefetch
 ```
  
 
-<div style="display:block;text-align:left"><img align="left" src="https://user-images.githubusercontent.com/56447720/215329483-0f7dcda1-71a7-495a-9097-2393af297636.png" border="0" style="width:156px;">
+<div style="display:block;text-align:left"><img align="left" src="https://avatars.githubusercontent.com/u/83623752?s=400&u=c3d246290debc6769ffd5f6d41b43880446a2d98&v=4" border="0" style="width:156px;">
   
   ```css
   fihry@GitHub
