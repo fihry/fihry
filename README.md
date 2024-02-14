@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @fihry
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN 
-- 💞️ I’m looking to collaborate on Create MERN Projectes
-- 📫 How to reach me Fihry.me
 
-<!---
-fihry/fihry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+```css
+┌[heapbytes@git]-(~)
+└> mefetch
+```
+ 
+
+<div style="display:block;text-align:left"><img align="left" src="https://user-images.githubusercontent.com/56447720/215329483-0f7dcda1-71a7-495a-9097-2393af297636.png" border="0" style="width:156px;">
+  
+  ```css
+  fihry@GitHub
+  -----------------
+  Name: fihry
+  Languages: ["go", "C", "Bash", "Js"]
+  Intrests: ["MERN stack", "Linux","IT"]
+  ```
+</div>
+
+
+
+<br />
+<p align="center">
+  <samp>
+    $  <a href="https://gist.github.com/heapbytes" target="_blank">gists</a> .
+    <a href="https://fihry.me" target="_blank">Profile</a> .
+    <a href="https://twitter.com/EFihry" target="_blank">x</a> .
+    <a href="https://discordapp.com/users/940783956746461244" target="_blank">discord</a> .
+    <a href="https://github.com/fihry" target="_blank">fihry project</a> $
+  </samp>
+</p>
+
+
+
+
+
