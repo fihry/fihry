@@ -6,7 +6,7 @@
 ```
  
 
-<div style="display:block;text-align:left"><img align="left" src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" border="0" style="width:130px;">
+<div style="display:block;text-align:left"><img align="right" src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" border="1" style="width:130px;">
   
   ```css
   fihry@GitHub
