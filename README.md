@@ -8,19 +8,18 @@
 
 <div style="display:block;text-align:left"><img align="left" src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" border="0" style="width:130px;">
   
-  ```css
+  #```css
   fihry@GitHub
   -----------------
   Name: fihry
   Languages: ["go", "C", "Bash", "Js"]
   Intrests: ["MERN stack", "Linux","IT"]
-  ```
+  #```
 </div>
 
 
 
 <br />
-```css
 <p align="center">
   <samp>
     $  <a href="https://gist.github.com/fihry" target="_blank">gists</a> .
@@ -30,7 +29,6 @@
     <a href="https://github.com/fihry" target="_blank">fihry project</a> $
   </samp>
 </p>
-```
 
 
 
