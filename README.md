@@ -6,7 +6,7 @@
 ```
  
 
-<div style="display:block;text-align:left"><img align="left" src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" border="0" style="width:140px;">
+<div style="display:block;text-align:left"><img align="left" src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" border="0" style="width:100px;">
   
   ```css
   fihry@GitHub
@@ -26,7 +26,7 @@
     <a href="https://fihry.me" target="_blank">Profile</a> .
     <a href="https://twitter.com/EFihry" target="_blank">x</a> .
     <a href="https://discordapp.com/users/940783956746461244" target="_blank">discord</a> .
-    <a href="https://github.com/fihry" target="_blank">fihry project</a> $
+    <a href="https://github.com/fihry" target="_blank" color="green">fihry project</a> $
   </samp>
 </p>
 
