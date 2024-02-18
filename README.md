@@ -29,9 +29,6 @@
      <a href="https://github.com/fihry" target="_blank">fihry project</a> $
   </samp>
 </p>
- <marquee direction="right">
-  sdahgfjsdg bsadjhgfhjdsg dashgfhjdsf dhsjagfhjasbmfn
- </marquee>
 
 
 
