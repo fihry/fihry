@@ -12,8 +12,8 @@
   fihry@GitHub
   -----------------
   Name: fihry
-  Languages: ["go", "C", "Bash", "Js"]
-  Intrests: ["MERN stack", "Linux","IT"]
+  Languages: ["go", "C", "Bash", "Js" , "MERN stack"]
+  Intrests: ["IT"]
   ```
 </div>
 
