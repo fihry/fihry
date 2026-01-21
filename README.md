@@ -27,7 +27,7 @@
 ## 🌐 Connect  
 
 <div align="center">
-  <a href="https://linkedin.com/in/fihry" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-el-fihry/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="https://discord.gg/pCCq87qd" target="_blank">
