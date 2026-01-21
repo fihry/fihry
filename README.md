@@ -1,7 +1,7 @@
 # Hi, I'm Fihry 👋  
 
 🚀 Fullstack Developer | Passionate about building modern web apps and efficient backend systems.  
-💡 Experienced in **JavaScript, Next.js, Go, and Rust and Java**.  
+💡 Experienced in **Go, Rust, Java, JavaScript, Typescript, Next.js, Angular**.  
 🌍 Open to collaboration on innovative projects and continuous learning.  
 
 ---
